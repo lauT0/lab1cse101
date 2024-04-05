@@ -1,1 +1,1 @@
-Sam's User Page
+My favorite programming language is c++, I used to like java but I think c++ is more consistant.
