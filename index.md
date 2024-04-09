@@ -16,10 +16,10 @@ Hello, my name is Sam and I'm a second year at UCSD majoring in computer science
   6. kiki's delivery service - 8/10
   7. Whisper of the Heart - 6/10
   8. From up on Poppy Hill - 5/10 **weird** 
-  9. Ocean waves - 4/10 **horrible**
+  9. Ocean waves - 4/10 ***horrible***
 
 ### Code Sample:
-This is my solution to leetcode 11. Container With Most Water. I dont really know how else to include a code block in this assignment:
+I'm trying to leetcode more in order to improve my coding skills and I also want to start doing hackathons. This is my solution to leetcode 11. Container With Most Water:
 
 ```
 class Solution {
